@@ -1,0 +1,17 @@
+0: {}
+1: {name: "Pacote Lima + Cusco Individual - 2021", value: "-50%", discount: "999"}
+2: {name: "Pacote Orlando + Miami - 2021", value: "-50%", discount: "1299"}
+3: {name: "Pacote Grécia (Atenas + Santorini) - 2021", value: "-50%", discount: "2399"}
+4: {name: "Pacote San Andrés - 2021", value: "-50%", discount: "999"}
+5: {name: "Pacote Cape Town (África do Sul) - 2021", value: "-60%", discount: "1999"}
+6: {name: "Pacote Las Vegas - 2021", value: "-55%", discount: "1290"}
+7: {name: "Pacote Orlando - 2021", value: "-55%", discount: "1559"}
+8: {name: "Pacote Bangkok + Phuket - 2021", value: "-55%", discount: "2870"}
+9: {name: "Pacote Cartagena + San Andrés Individual - 2021", value: "-50%", discount: "999"}
+10: {name: "Pacote Playa del Carmen - 2021", value: "-50%", discount: "1299"}
+11: {name: "Pacote Santiago + Mendoza Individual - 2021", value: "-30%", discount: "999"}
+12: {name: "Pacote Amsterdam - 2021", value: "-50%", discount: "1999"}
+13: {name: "Pacote Maceió + Maragogi + Porto de Galinhas + Gunga - 2020", value: "-50%", discount: "1399"}
+14: {name: "Pacote Fortaleza + Jericoacoara + Canoa Quebrada - 2020", value: "-50%", discount: "1519"}
+15: {name: "Pacote Gramado/Canela - 2020", value: "-54%", discount: "629"}
+16: {name: "Pacote Amsterdam + Londres + Berlim - 2020", value: "-50%", discount: "7739"}
